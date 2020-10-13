@@ -1,0 +1,57 @@
+body{
+    
+    background-color:gray;
+    background-image: url(bg.png);
+    background-repeat: round;
+    font-size: 20px;
+    font-style: italic;
+}
+.chicken{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px  solid black;
+    border-radius: 20PX;
+    margiN: 100PX;
+    padding: 50px;
+    background-image: url(chicken.jpg.webp);
+    background-position:bottom;
+    color:hsl(0, 0%, 100%);
+    font-size: 25px;
+
+}
+.sushi{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px  solid black;
+    border-radius: 20PX;
+    margiN: 100PX;
+    padding: 50px;
+    background-image: url(makisushi.jpg);
+    background-position:bottom;
+     color:hsl(0, 0%, 100%);
+     font-size: 25px;
+
+}
+.BEEF{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px  solid black;
+    border-radius: 20PX;
+    margiN: 100PX;
+    padding: 50px;
+    background-image: url(roast-beef-recipes-536cd86.jpg);
+    background-position:right;
+    color:hsl(0, 0%, 100%);
+    font-size: 25px;
+
+}
+h1{
+    text-align: center;
+  color:#e5edf5;
+  border-style: double ;
+  font-size: 50px;
+
+}
+h3{
+    font-size:25px ;
+    font-style: oblique;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(36, 35, 34);
+}
